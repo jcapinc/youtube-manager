@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/jcapinc/youtube-manager#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
     "express": "^4.16.3"
   },
   "devDependencies": {
