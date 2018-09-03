@@ -1,0 +1,30 @@
+{
+  "name": "youtube-manager",
+  "version": "0.0.0",
+  "description": "Youtube Management Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcapinc/youtube-manager.git"
+  },
+  "keywords": [
+    "Youtube",
+    "Node"
+  ],
+  "author": "Jeffrey Parrish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcapinc/youtube-manager/issues"
+  },
+  "homepage": "https://github.com/jcapinc/youtube-manager#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
